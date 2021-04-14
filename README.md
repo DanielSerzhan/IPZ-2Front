@@ -1,7 +1,7 @@
 # OBD
 Autors:
 
-1 Serzhan Daniil - tech lead, fronend developer
+1 Serzhan Daniil - tech lead, frontend developer
 
 2 Liniychuk Danylo - PM, frontend developer
 
