@@ -1,4 +1,4 @@
-# OBD
+# IPZ-2
 Autors:
 
 1 Serzhan Daniil - tech lead, frontend developer
