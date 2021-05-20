@@ -1,10 +1,10 @@
 # IPZ-2
 Autors:
 
-1 Slyusarь Regina - tech lead, TL, backend developer
+1 Slyusar Regina - frontend developer
 
-2 Liniychuk Danylo - PM, frontend developer
+2 Liniychuk Danylo - backend developer
 
-3 Serzhan Daniel - frontend developer
+3 Serzhan Daniel - backend developer
 
-<<<<<<< HEAD Посилання на репозиторій з сервером: 
+<<<<<<< Посилання на репозиторій з сервером: 
