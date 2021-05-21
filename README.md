@@ -1,7 +1,7 @@
 # IPZ-2
 Autors:
 
-1 Slyusar Regina - frontend developer
+1 Sliusar Regina - frontend developer
 
 2 Liniychuk Danylo - backend developer
 
