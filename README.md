@@ -7,4 +7,4 @@ Autors:
 
 3 Serzhan Daniel - backend developer
 
-<<<<<<< Посилання на репозиторій з сервером: 
+<<<<<<< Посилання на репозиторій з сервером: https://github.com/DanielSerzhan/IPZ-2Back
