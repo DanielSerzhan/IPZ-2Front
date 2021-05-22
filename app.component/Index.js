@@ -50,7 +50,7 @@ function addTab() { //all procces of tab creating is here
         search_and_tabs.insertBefore(newTab, search_form_id)//put tabs BEFORE search form and AFTER search-and-tabs header
 
         let cross = document.createElement("img")//create cross for closing
-        cross.src = "fileclose.png"//getting image of cross
+        cross.src = "../imgs/fileclose.png"//getting image of cross
         cross.className = "cross" //giving classname
         cross.id =`cross-${tab_amount.length}` //giving unique id
         //const tab_id = document.getElementById(newTab.id) 
